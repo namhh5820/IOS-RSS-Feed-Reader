@@ -1,1 +1,1 @@
-# IOS-RSS-Feed-Reader
+# IOS App RSS-Feed-Reader
